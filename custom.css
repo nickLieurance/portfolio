@@ -10,6 +10,8 @@ body {
 #main {
 }
 
+
+
 .row {
     align-items: center;
     overflow-y:scroll;
@@ -36,6 +38,6 @@ body {
   font-size: 400%;
 }
 
-h2 {
+h1, h2, h3 {
   margin-top: 5%;
 }
